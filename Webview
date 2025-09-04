@@ -1,0 +1,6 @@
+{
+  "webview": {
+    "active": 1,
+    "url": "https://raw.githubusercontent.com/<username>/<repo>/main/page.html"
+  }
+}
