@@ -1,10 +1,10 @@
 {
   "webview": {
-    "active": 1,
+    "active": 0,
     "url": "https://kbhgames.com/game/bloodmoney"
   },
   "youtube": {
-    "active": 1,
+    "active": 0,
     "videos": [ 
       {
         "id": "dQw4w9WgXcQ",
@@ -21,7 +21,7 @@
     ]
   },
   "promo": {
-    "active": 1,
+    "active": 0,
     "appName": "Cool Game X",
     "appIcon": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/refs/heads/main/app_icon.png",
     "url": "https://apps.apple.com/app/id1234567890"
