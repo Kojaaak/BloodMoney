@@ -20,4 +20,11 @@
       }
     ]
   }
+  },
+  "promo": {
+    "active": 1,
+    "appName": "Cool Game X",
+    "appIcon": "https://raw.githubusercontent.com/Kojaaak/BloodMoney/main/appicon.png",
+    "url": "https://apps.apple.com/app/id1234567890"
+  }
 }
