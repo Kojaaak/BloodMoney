@@ -1,0 +1,19 @@
+{
+  "youtube": {
+    "active": 1,
+    "videos": [
+      {
+        "id": "dQw4w9WgXcQ",
+        "title": "Never Gonna Give You Up"
+      },
+      {
+        "id": "9bZkp7q19f0",
+        "title": "PSY - GANGNAM STYLE"
+      },
+      {
+        "id": "LXb3EKWsInQ",
+        "title": "Beautiful Drone Footage"
+      }
+    ]
+  }
+}
